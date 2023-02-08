@@ -1,3 +1,5 @@
+# 由于个人原因，此项目已弃坑，由于ChatGPT的接口发生了变化，此项目现已不可用
+
 # ChatGPT-QQRobot
  基于go-cqhttp接口ChatGPT QQ机器人
 ## 使用说明
