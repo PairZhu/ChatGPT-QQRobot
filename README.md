@@ -1,4 +1,4 @@
-# 由于个人原因，此项目已弃坑，由于ChatGPT的接口发生了变化，此项目现已不可用
+# 此项目已弃坑，现已不可用，替代品请转至新项目 [GPT3-QQRobot](https://github.com/PairZhu/GPT3-QQRobot)
 
 # ChatGPT-QQRobot
  基于go-cqhttp接口ChatGPT QQ机器人
